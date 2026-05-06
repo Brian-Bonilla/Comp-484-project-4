@@ -186,3 +186,9 @@ body {
     color: white;
     background-color: #E95D0F;
 }
+#countdown {
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    color: #0D1B2E;
+}
